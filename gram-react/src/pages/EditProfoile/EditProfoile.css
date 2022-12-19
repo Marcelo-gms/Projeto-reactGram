@@ -1,0 +1,16 @@
+#edit-profile{
+  border: 1px solid #555;
+  padding: 1.5em 2em;
+  width: 40%;
+  margin: 2em auto;
+}
+
+
+.profile-image{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: .5em 20%;
+
+}
